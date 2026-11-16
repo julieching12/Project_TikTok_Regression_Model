@@ -1,4 +1,15 @@
+"""
+The purpose of this project is to investigate and understand the data provided. This activity will:
+1.Acquaint you with the data
+2.Compile summary information about the data
+3.Begin the process of EDA and reveal insights contained in the data
+4.Prepare you for more in-depth EDA, hypothesis testing, and statistical analysis
 
+The goal is to construct a dataframe in Python, perform a cursory inspection of the provided dataset,
+and inform TikTok data team members of your findings.
+
+NOTE: below codes are run in Jupyter Notebook environment.
+"""
 
 # Import packages for data manipulation
 import pandas as pd
